@@ -20,6 +20,7 @@
     "@bytemd/vue-next": "^1.22.0",
     "@types/node": "^22.15.3",
     "bytemd": "^1.22.0",
+    "highlight.js": "^11.11.1",
     "juejin-markdown-themes": "^1.34.0",
     "lodash": "^4.17.21",
     "vditor": "^3.11.0",

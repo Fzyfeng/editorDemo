@@ -27,7 +27,7 @@ import pluginGfmZhHans from "@bytemd/plugin-gfm/locales/zh_Hans.json"
 import 'juejin-markdown-themes/dist/juejin.min.css' // 掘金同款样式
 import { setTheme, themeList, setCustomStyle }  from 'bytemd-plugin-theme'
 import themePlugin from "bytemd-plugin-theme"
-
+import 'highlight.js/styles/atom-one-dark.css'
 
 // 内容控件所支持的特殊功能插件列表，如：支持代码高亮、图片优化等。
 const pluginsList = [
