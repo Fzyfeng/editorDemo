@@ -37,7 +37,6 @@ const pluginsList = [
   frontmatter(),
   mediumZoom(),
   breaks(),
-  theme(),
   mermaid({ locale: pluginMermaidZhHans }),
   themePlugin({ cb: val=>{
     //主题更改的打印
